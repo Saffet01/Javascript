@@ -1,1 +1,1 @@
-# Javascript-
+# Javascript lecture notes.
